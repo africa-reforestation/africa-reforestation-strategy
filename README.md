@@ -1,6 +1,20 @@
 ---
 
 # 🌍 **Rapid Afforestation Strategy for Deforested African Regions**
+# 🌍 Africa Reforestation Program (ARP)
+
+## Core Reforestation Plan  
+Focused on restoring degraded lands in Africa using cutting-edge technology, community-driven efforts, and sustainable forestry practices.
+
+---
+
+## 🚀 Current Initiatives
+
+### 🌊 **Water Bodies Ecosystem Initiative**  
+An initiative to restore degraded ecosystems around rivers, lakes, and wetlands in East Africa using the Miyawaki method combined with modern technologies. The goal is to build resilient forests around water bodies that support biodiversity, water regulation, and local livelihoods.
+
+- **📄 [Read the Detailed Plan](docs/water-bodies-ecosystem-initiative.md)**
+
 
 ### 📋 **Objective**  
 To restore large deforested areas in Africa using drone technology, data-driven planning, and community engagement for rapid, sustainable afforestation.
